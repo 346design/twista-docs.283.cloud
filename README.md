@@ -1,4 +1,4 @@
-# docs.twista.283.cloud
+# twista-docs.283.cloud
 
 twista.283.cloudのユーザー向けドキュメント
 
