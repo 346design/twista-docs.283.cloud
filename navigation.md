@@ -4,3 +4,4 @@
 [機能](feature/index.md)
 [独自構文](feature/syntax.md)
 [お問い合わせ](contact.md)
+[twistaに戻る](https://twista.283.cloud)
