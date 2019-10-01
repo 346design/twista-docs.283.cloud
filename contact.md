@@ -39,6 +39,4 @@ twistaはSNSであり、広くプロデューサーやファンといった利�
 |:--:|:--:|:--|
 |[@ac](https://twista.283.cloud/@ac)|管理者|twistaの開発とサーバの管理をしている人|
 |[@miyacorata](https://twista.283.cloud/@miyacorata)|モデレータ|このヘルプを書いたりしている人|
-<!-- To Do: 追記
-|[@takenoko](https://twista.283.cloud/@takenoko)|モデレータ||
--->
+|[@takenoko](https://twista.283.cloud/@takenoko)|モデレータ|絵文字を増やしたりしている人|
