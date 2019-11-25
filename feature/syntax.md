@@ -4,7 +4,7 @@ twistaは本家Misskeyにはない独自構文もサポートしています。
 
 独自機能をお探しですか？ → [twista 独自機能](original.md)
 
-MisskeyがサポートするMFM(Misskey Flavored Markdown)はこちら → [文字装飾](https://joinmisskey.github.io/ja/wiki/usage/mfm/)
+MisskeyがサポートするMFM(Misskey Flavored Markdown)はこちら → [文字装飾](https://join.misskey.page/ja/wiki/usage/mfm)
 
 ***
 
